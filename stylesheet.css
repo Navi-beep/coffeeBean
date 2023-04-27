@@ -1,0 +1,31 @@
+#title {
+    font-weight: bold;
+  }
+  
+  
+  #body {
+    text-align: justify;
+  }
+  
+  #body2 {
+    text-decoration: underline;
+  }
+  
+  #image {
+    border-radius: 5%;
+  }
+  
+  #divy {
+    box-shadow: 6px 6px 2px 1px rgb(111, 78, 55);
+  }
+  
+  #button:hover {
+    box-shadow: 3px 3px 2px 1px rgb(210,180,140);
+  }
+  
+  #button {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  } 
+  
